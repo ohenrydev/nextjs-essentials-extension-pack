@@ -1,0 +1,44 @@
+{
+  "name": "next-js-essentials",
+  "displayName": "Next.js Essentials",
+  "description": "Extensions for Next.js development",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.91.0"
+  },
+  "categories": [
+    "Extension Packs"
+  ],
+  "extensionPack": [
+    "EditorConfig.EditorConfig",
+    "dbaeumer.vscode-eslint",
+    "esbenp.prettier-vscode",
+    "bradlc.vscode-tailwindcss",
+    "aaron-bond.better-comments",
+    "usernamehw.errorlens",
+    "ms-vscode.vscode-typescript-next"
+  ],
+  "publisher": "ohenrydev",
+  "keywords": [
+    "react",
+    "nextjs",
+    "eslint",
+    "prettier",
+    "errorlens",
+    "typescript",
+    "tailwindcss",
+    "bettercomments"
+  ],
+  "galleryBanner": {
+    "color": "#000000",
+    "theme": "dark"
+  },
+  "icon": "logo.png",
+  "homepage": "https://github.com/ohenrydev/nextjs-essentials-extension-pack",
+  "repository": {
+    "url": "https://github.com/ohenrydev/nextjs-essentials-extension-pack"
+  },
+  "bugs": {
+    "url": "https://github.com/ohenrydev/nextjs-essentials-extension-pack/issues"
+  }
+}
